@@ -1,0 +1,54 @@
+# 2026-07-13 3000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom
+
+- dividend n.红利, 股息
+
+> 如果一个产业仅让少数人获取巨额利益, 反而推高了大多数人的生活成本, 这样的发展, 真的称得上繁荣吗? 这并非假设, 而是韩国目前正在经历的现实. 在这场由科技催生的财富激增面前, 一场关于"谁该分享红利"的全国性辩论愈演愈烈. 智能产业的发展究竟创造了怎样的惊人的财富? 关乎利益分配的社会公平, 又该由谁来守护?
+
+South Korea is one of the world's biggest makers of these high-value chips and the country is seeing an <ruby>**unprecedented**<rt>a.前所未有的</rt></ruby> wealth boom from their rise.
+
+From workers in tech firms collecting six-figure bonuses, to ordinary people seeing massive investment returns—all of it driving a surge in luxury spending.
+
+But only a small slice of the population is <ruby>[cash]{.underline}ing [in]{.underline}<rt>从中牟利</rt></ruby>, sparking a wider debate about who should have a share in the profits of the country's most valuable industry.
+
+As South Korea <ruby>[grapple]{.underline}s [with]{.underline}<rt>尽力解决</rt></ruby> widening inequality, calls are growing for some of the earnings—or the taxes they generate—to be spread more widely.
+
+The huge wealth surge has been driven by two companies—Samsung Electronics and SK Hynix.
+
+The pair dominate the global supply of high-bandwidth memory, the specialized chips that AI systems need to run.
+
+<ruby>**Analyst**s<rt>n.分析员</rt></ruby> project their combined operating profits could rise almost <ruby>**sevenfold**<rt>a.ad. 七倍的(地)</rt></ruby> this year.
+
+Their success has pushed South Korea's main stock index—the Kospi—to record highs.
+
+The chipmakers have begun sharing those record profits with their staff on a scale the country has never seen.
+
+At Samsung, a memory-chip worker on a base salary of $\pu{80m}$ won ($\pu{\$ 51300}$) could receive bonuses close to $\pu{600m}$ won ($\pu{\$ 384900}$) this year, most of it in stock.
+
+That is roughly 17 times the average annual salary at a small South Korean firm.
+
+SK Hynix paid its workers a bonus of nearly $\pu{3000\%}$ of their monthly salary earlier this year.
+
+Based on forecast profits, next year's payout is projected to be several times larger.
+
+The signs of this flourishing wealth are dotted across the country.
+
+In <ruby>[satellite cities]{.underline}<rt>卫星城</rt></ruby> built around the chip factories south of Seoul luxury sales are surging.
+
+Who owns the profits?
+
+The explosion in wealth has driven questions about who is entitled to a share in the profits—and how to spread the wealth more evenly across society.
+
+"Over the years, the semiconductor industry benefited enormously from government support," says Kim Yong-jin, professor of business administration at Sogang University in Seoul, <ruby>[point]{.underline}ing [to]{.underline}<rt>提到</rt></ruby> decades of state investment in research and industrial policy.
+
+```{python}
+#| echo: false
+
+from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path("..").resolve()))
+
+from bookmark import bookmark
+
+bookmark("https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom")
+```

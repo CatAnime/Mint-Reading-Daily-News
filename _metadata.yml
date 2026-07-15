@@ -1,0 +1,6 @@
+format:
+  html:
+    css: style.css
+
+execute:
+  echo: false

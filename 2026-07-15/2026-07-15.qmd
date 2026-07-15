@@ -1,0 +1,71 @@
+# 2026-07-15 Why Garlic Repels Mosquitoes and Keeps Them From Breeding
+
+- inhibited a.羞怯的; 抑制感情的
+- inhibition n.拘谨; 禁止; 抑制
+
+> 燥热的盛夏一道, 扰人的蚊虫便准时出没, 总能轻易搅乱闲适夜晚. 市面上的去问方式五花八门, 依靠天然植物驱蚊更是广受大众青睐. 民间一直流传着用大蒜驱蚊的"偏方". 这种随处可见的普通食材, 真能让人们彻底告别蚊虫侵扰吗? 它又如何潜移默化地影响蚊虫生存习性的?
+
+Garlic has been considered a natural mosquito repellent for centuries.
+
+In popular culture, it is believed that its <ruby>**pungent**<rt>a.刺鼻的</rt></ruby> smell repels these insects, which, in addition to causing sleepless nights, transmit diseases such as <ruby>**dengue fever**<rt>登革热</rt></ruby> or <ruby>**malaria**<rt>n.疟疾</rt></ruby>.
+
+Now, this belief has a scientific explanation.
+
+A group of scientists from Yale University conducted a <ruby>phytochemical<rt>a.植物化学的</rt></ruby> analysis of 43 fruits and vegetables to identify natural compounds <ruby>[capable of]{.underline}<rt>能做...</rt></ruby> <ruby>[interfering with]{.underline}<rt>干扰</rt></ruby> the reproductive behavior of flying pest insects.
+
+To do so, the team used fruit flies, a species that often mates on food, as a model organism.
+
+Based on this behavior, the researchers hypothesized that some fruits and vegetables might contain substances capable of altering the reproductive processes of these insects.
+
+After exposing different <ruby>**specimen**<rt>n.标本, 样品</rt></ruby>s to the mashed food included in the experiment, they observed that none of the products had a significant <ruby>**aphrodisiac**<rt>a.引起性欲的</rt></ruby> effect.
+
+However, they found that garlic completely blocked mating and egg laying.
+
+After this initial finding, the researchers <ruby>**sought**<rt>seek v.寻找</rt></ruby> to determine the source of the effect and focused their attention on the influence of garlic on the flies' senses of taste and smell.
+
+<ruby>[To this end]{.underline}<rt>为此</rt></ruby>, they conducted two experiments.
+
+In the first, they placed the garlic <ruby>**puree**<rt>n.酱, 糊</rt></ruby> in such a way that the insects could only smell it; in the second, they allowed them to taste it as well.
+
+The results showed that the taste was the factor that actually <ruby>inhibit<rt>v.抑制</rt></ruby>ed reproductive behaviors.
+
+The team then conducted a chemical analysis of the garlic to identify the compound responsible for the effect.
+
+They determined that <ruby>**diallyl disulfide**<rt>二烯丙基二硫</rt></ruby> was the element that caused the inhibition.
+
+<ruby>[In practice]{.underline}<rt>实际上</rt></ruby>, this substance acts on a sensory receptor present in the fly's taste organs, <ruby>[known as]{.underline}<rt>被称作...的</rt></ruby> TrpA1 (transient receptor potential A1).
+
+The TrpA1 receptor <ruby>[functions as]{.underline}<rt>充当</rt></ruby> a sensor that triggers immediate rejection responses when it detects potentially <ruby>noxious<rt>a.有害的</rt></ruby> tastes.
+
+According to an article published in the journal Cell, garlic specifically activates a group of bitter taste-sensitive <ruby>**neuron**<rt>n.神经元</rt></ruby>s containing this receptor.
+
+This activation not only provokes a physical avoidance reaction but also changes at the molecular level by modifying the expression of various genes.
+
+Among the alterations identified, that of a gene closely related to the sensation of <ruby>satiety<rt>n.满足</rt></ruby> <ruby>[stands out]{.underline}<rt>突出</rt></ruby>, suggesting that contact with garlic compounds directly <ruby>interfere<rt>v.妨碍</rt></ruby>s with the biological processes that regulate <ruby>appetite<rt>n.食欲</rt></ruby> and feeding in these insects.
+
+The authors <ruby>posit<rt>n.安置 v.假定</rt></ruby> that increased satiety appears to drive behaviors that limit mating and reproduction, primarily in females.
+
+A Natural <ruby>Repellent<rt>n.驱虫剂</rt></ruby> for Many Species.
+
+In addition to fruit flies, the experiments were replicated in other flying insects, including two species of mosquitoes that transmit of mosquitoes that transmit diseases such as <ruby>**yellow feber**<rt>黄热病</rt></ruby>, dengue, and <ruby>**Zika virus**<rt>塞卡病毒</rt></ruby>, as well as <ruby>**tsetse flies**<rt>舌蝇</rt></ruby>.
+
+In all cases, the tests showed that garlic can <ruby>[act as]{.underline}<rt>充当</rt></ruby> an effective <ruby>**remedy**<rt>n.v.治疗, 矫正</rt></ruby> to discourage reproduction.
+
+The researchers' finding suggest that this plant, <ruby>**Allium sativum**<rt>大蒜(学名)</rt></ruby>, could be used as a tool to control various insect pests harmful to both human health and agriculture.
+
+"It's inexpensive and grown all over the world," said John Carlson, a Yale professor and coauthor of the study.
+
+"The idea of using it to <ruby>[ward off]{.underline}<rt>避开</rt></ruby> <ruby>**hematophagous**<rt>a.食血为生的</rt></ruby> creatures was proposed in 1897 by Bram Stoker in his novel Dracula, and perhaps he was right.
+
+```{python}
+#| echo: false
+
+from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path("..").resolve()))
+
+from bookmark import bookmark
+
+bookmark("https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/")
+```

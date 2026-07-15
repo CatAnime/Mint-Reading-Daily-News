@@ -1,0 +1,8 @@
+project:
+  title: "Mint-Daily-News"
+
+editor: visual
+
+format:
+  html:
+    css: style.css
